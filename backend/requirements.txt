@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+motor
+beanie
+python-dotenv
+langchain-xai
