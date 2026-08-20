@@ -5,7 +5,7 @@
    ========================================================================== */
 
 // Point this at wherever main.py is running.
-const API_BASE = 'http://127.0.0.1:8000';
+const API_BASE = 'https://portfoliofordgemaker.onrender.com';
 
 // ---------------------------------------------------------------- state
 const state = {
